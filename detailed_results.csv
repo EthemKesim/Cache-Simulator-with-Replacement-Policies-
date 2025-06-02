@@ -1,0 +1,22 @@
+Config,Hits,Misses,Cold Misses,Conflict Misses,Hit Ratio,Miss Ratio
+16-blk1-assoc1-LRU,289,711,154,557,0.29,0.71
+16-blk1-assoc1-FIFO,289,711,154,557,0.29,0.71
+16-blk1-assoc1-Random,289,711,154,557,0.29,0.71
+32-blk1-assoc1-LRU,455,545,154,391,0.46,0.55
+32-blk1-assoc1-FIFO,455,545,154,391,0.46,0.55
+32-blk1-assoc1-Random,455,545,154,391,0.46,0.55
+16-blk1-assoc2-LRU,270,730,154,576,0.27,0.73
+16-blk1-assoc2-FIFO,255,745,154,591,0.26,0.74
+16-blk1-assoc2-Random,269,731,154,577,0.27,0.73
+32-blk1-assoc2-LRU,480,520,154,366,0.48,0.52
+32-blk1-assoc2-FIFO,443,557,154,403,0.44,0.56
+32-blk1-assoc2-Random,433,567,154,413,0.43,0.57
+16-blk1-assoc4-LRU,268,732,154,578,0.27,0.73
+16-blk1-assoc4-FIFO,252,748,154,594,0.25,0.75
+16-blk1-assoc4-Random,249,751,154,597,0.25,0.75
+32-blk1-assoc4-LRU,481,519,154,365,0.48,0.52
+32-blk1-assoc4-FIFO,421,579,154,425,0.42,0.58
+32-blk1-assoc4-Random,428,572,154,418,0.43,0.57
+64-blk1-assoc1-LRU,600,400,154,246,0.60,0.40
+64-blk1-assoc1-FIFO,600,400,154,246,0.60,0.40
+64-blk1-assoc1-Random,600,400,154,246,0.60,0.40
