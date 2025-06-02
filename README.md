@@ -66,7 +66,7 @@ Runs multiple configurations:
 Visualization:
 
 * Green bars = Hit ratio
-* Red bars = Miss ratio
+* Red bars   = Miss ratio
 
 ---
 
