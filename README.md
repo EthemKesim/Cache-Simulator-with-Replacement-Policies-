@@ -1,6 +1,3 @@
-İşte projeniz için uygun bir **GitHub README** dosyası taslağı:
-
----
 
 # 🧠 Cache Simulator with Replacement Policies
 
