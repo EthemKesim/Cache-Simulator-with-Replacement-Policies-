@@ -10,7 +10,7 @@ A configurable simulator for analyzing cache memory behavior using various repla
 * `main.ipynb` – Runs multiple simulations, analyzes results, and generates visualizations.
 * `example_trace.txt` – Example generated trace file.
 * `results.csv` – Simulation result summary (hit/miss ratios).
-* `/logs` – Directory storing logs for each configuration.
+* `/logs` – Directory storing logs for each configuration. 
 
 ## 👨‍💻 Team Members
 
